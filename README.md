@@ -1,4 +1,4 @@
-The algorithm that written by me for katas from codewars.
+The algorithm that written by me for katas from codewars.com.
 
 Python programming language has been used.
 
