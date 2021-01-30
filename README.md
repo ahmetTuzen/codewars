@@ -5,3 +5,5 @@ Python programming language has been used.
 Project categorized by their difficulty (kyu).
 
 Weekly updated.
+
+Beta's are skipped for now.
